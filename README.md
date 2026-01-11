@@ -1,4 +1,4 @@
-Credit Card Delinquency Risk Analysis (Power BI)
+Credit Card Delinquency Risk Analysis (Power BI) 
 
 This project analyzes credit card customers to understand delinquency risk – which customers are more likely to miss payments.
 
